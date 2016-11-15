@@ -33,7 +33,7 @@ fi
 #inputs fine
 #tell the user
 echo "Interpolating between images $1 and $2 with $3 new images. This may take a minute."
-cat > notes <<!
+cat >> notes <<!
 Interpolated between images $1 and $2 with $3 new images.
 !
 #nebmake.pl in false environment
