@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Purpose: Generate HCP (001) surface
+# Purpose: Generate HCP bulk with alternating layers
 # Author: Raymond Gasper
 # Adapted From FCC surface generator by Sungho Kim and Laalitha Liyanage
 
